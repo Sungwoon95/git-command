@@ -24,7 +24,7 @@
 
 ## 커밋 로그 확인
 `git log`
-`git log --oneline`
+`git log --oneline` 커밋 로그를 편하게 볼 수 있음
 
 ## 깃 브랜치
 `git branch <branch>` 브랜치 생성
