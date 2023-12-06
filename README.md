@@ -28,6 +28,9 @@
 
 ## 깃 브랜치
 `git branch <branch>` 브랜치 생성
+`git branch -r` 원격 브랜치 확인
+`git branch -l` 로컬 브랜치 확인
+`git branch -a` 전체 브랜치 확인
 `git switch <branch>` 해당 브랜치로 이동
 
 ## 삭제 파일 복구
